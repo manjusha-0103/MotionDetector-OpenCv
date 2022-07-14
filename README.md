@@ -1,4 +1,4 @@
-MotionDetector-Opencv
+MotionDetector-OpenCv
 
 Before runnig the .py file first install OpenCv on your system with following command --
   * $ pip install opencv-python
